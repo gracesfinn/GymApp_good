@@ -1,0 +1,58 @@
+{{#each userAssessment}}
+<table class="ui table">
+    <thead>
+    <tr>
+        <th> Date </th>
+        <th> Weight </th>
+        <th> Chest </th>
+        <th> Thigh </th>
+        <th> Upper Arm </th>
+        <th> Waist </th>
+        <th> Hips </th>
+        <th> Trend </th>
+        <th> Comment </th>
+    </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+
+            <td>
+                {{date}}
+            </td>
+            <td>
+                {{weight}}kgs
+            </td>
+            <td>
+                {{chest}}cm
+            </td>
+            <td>
+                {{thigh}}cm
+            </td>
+            <td>
+                {{upperArm}}cm
+            </td>
+            <td>
+                {{waist}}cm
+            </td>
+            <td>
+                {{hips}}cm
+            </td>
+            <td>
+                {{trend}}
+            </td>
+            <td>
+                {{comment}}
+            </td>
+        </tr>
+    </tbody>
+</table>
+        <form class="ui stacked segment form" action="/viewUser/{{../user}}/addcomment/{{id}}" method="POST">
+            <div class="field">
+                <label>Add Comment</label>
+                <input placeholder="Comment" type="text" name="comment">
+            </div>
+            <button class="ui blue submit button">Update</button>
+        </form>
+    {{/each}}
+
