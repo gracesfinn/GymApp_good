@@ -1,0 +1,76 @@
+{
+  "usersAssessments": [
+    {
+      "userId": "46745406-d8cb-4eb6-af75-9b8818a2dbd4",
+      "id": "1954c418-a376-439d-9300-25539f7beea9",
+      "date": "2019-08-02",
+      "weight": "75",
+      "chest": "100",
+      "thigh": "90",
+      "upperArm": "20",
+      "waist": "95",
+      "hips": "100",
+      "comment": "Good"
+    },
+
+    {
+      "userId": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "c0b6d452-7dd1-4b7f-bedd-4c5acd0875e6",
+      "date": "2019-08-02",
+      "weight": "75",
+      "chest": "100",
+      "thigh": "90",
+      "upperArm": "20",
+      "waist": "95",
+      "hips": "100"
+    },
+    {
+      "userId": "46745406-d8cb-4eb6-af75-9b8818a2dbd4",
+      "id": "a37b6e07-e492-49b0-83a2-bb14c47bd812",
+      "date": "2019-08-02",
+      "weight": "75",
+      "chest": "100",
+      "thigh": "90",
+      "upperArm": "20",
+      "waist": "95",
+      "hips": "100",
+      "comment": "Could do better"
+    },
+    {
+      "userId": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "a68fb67a-c69b-4b23-be21-0f1ae92e6ab1",
+      "date": "2019-08-08",
+      "weight": "75",
+      "chest": "100",
+      "thigh": "90",
+      "upperArm": "20",
+      "waist": "95",
+      "hips": "100"
+    },
+    {
+      "userId": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "0f98cdef-46d1-4810-8fc6-f470adb1932b",
+      "date": "2019-08-09",
+      "weight": "50",
+      "chest": "100",
+      "thigh": "90",
+      "upperArm": "20",
+      "waist": "95",
+      "hips": "100"
+    },
+    {
+      "userId": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "c380c9bc-7e24-47d8-b2bc-d33c385668cf",
+      "date": "2019-08-10",
+      "weight": "65",
+      "chest": "100",
+      "thigh": "90",
+      "upperArm": "20",
+      "waist": "95",
+      "hips": "100"
+    }
+
+  ],
+  "userAssessment": [],
+  "userAssessments": []
+}
